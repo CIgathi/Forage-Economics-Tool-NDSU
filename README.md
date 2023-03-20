@@ -1,6 +1,6 @@
 # Forage-Econonomics-Tool-NDSU
 
-Web tool for forage economics calculation featuring several crops, field operations, equipment purchase decisions, and what-if scenario analysis.
+## Web tool for forage economics calculation featuring several crops, field operations, equipment purchase decisions, and what-if scenario analysis.
 
 The Webtool_Resources folder contains index.html, *.css, UserInstruction.pdf, ManualWeb.pdf, data,  javascript (folder), and images (folder). 
 
