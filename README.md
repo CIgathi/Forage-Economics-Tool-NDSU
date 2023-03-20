@@ -2,7 +2,7 @@
 
 Web-tool for forage economics calculation featuring several crops and what-if scenario analysis
 
-The Webtool_Resources folder which index.html, *.css, UserInstruction.pdf, ManualWeb.pdf, data,  javascript (folder), and images (folder). 
+The Webtool_Resources folder which contains index.html, *.css, UserInstruction.pdf, ManualWeb.pdf, data,  javascript (folder), and images (folder). 
 
 Opening the index.html in any browser will run the tool.
 
