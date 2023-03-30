@@ -1,4 +1,4 @@
-# Forage-Econonomics-Tool-NDSU
+# Forage-Economics-Tool-NDSU
 
 ### Web tool for forage economics calculation featuring several crops, field operations, equipment purchase decisions, and what-if scenario analysis.
 
